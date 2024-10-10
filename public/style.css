@@ -1,0 +1,24 @@
+body{
+    margin : 10px ;
+    padding : 0 ;
+}
+.heading {
+    color: black;
+    background-color: aquamarine;
+    margin: 4px;
+    padding: 7px;
+    text-align: center; /* Align text to the center */
+    font-size: 24px;    /* Set a font size */
+    border-radius: 5px; /* Optional: Adds rounded corners */
+}
+
+.chat{
+    background-color: rgb(242, 213, 177);
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+}
+.msg{
+    background-color: rgb(104, 104, 104);
+    color: aliceblue;
+}
